@@ -76,19 +76,19 @@ Usage
 
 Screenshots
 
-    ![Main Menu](./assets/screenshots/main_menu.png)
+    ![Main Menu](./assests/screenshots/main_menu.png)
 
-    ![Create Contact](./assets/screenshots/create_contact.png)
+    ![Create Contact](./assests/screenshots/create_contact.png)
 
-    ![Search Contact](./assets/screenshots/search_contact.png)
+    ![Search Contact](./assests/screenshots/search_contact.png)
 
-    ![Display Contact](./assets/screenshots/display_contact.png)
+    ![Display Contact](./assests/screenshots/display_contact.png)
 
-    ![Edit Contact](./assets/screenshots/edit_contact_1.png)
+    ![Edit Contact](./assests/screenshots/edit_contact_1.png)
 
-    ![Edit Contact](./assets/screenshots/edit_contact_2.png)
+    ![Edit Contact](./assests/screenshots/edit_contact_2.png)
 
-    ![Delete Contact](./assets/screenshots/delete_contact_1.png)
+    ![Delete Contact](./assests/screenshots/delete_contact_1.png)
 
 File Structure
 
