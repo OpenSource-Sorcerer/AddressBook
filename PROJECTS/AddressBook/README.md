@@ -1,12 +1,12 @@
-#AddressBook Project
+## AddressBook Project
 
-Overview
+## Overview
 
     The Address Book project is a command-line application developed on a Linux machine. 
     It allows users to manage contacts efficiently, including adding, viewing, editing, and deleting contact information. 
     This project demonstrates proficiency in C programming, file handling, and data management.
 
-Features
+## Features
 
     Add Contacts: Store details such as name, phone number, email address, and address.
 
@@ -20,7 +20,7 @@ Features
 
     File Persistence: All data is stored in a file, ensuring persistence across sessions.
 
-Technologies Used
+## Technologies Used
 
     Programming Language: C
 
@@ -28,7 +28,7 @@ Technologies Used
 
     File Handling: Used for storing and retrieving contact data
 
-Installation
+## Installation
 
     Clone the repository:
 
@@ -54,7 +54,7 @@ Installation
 
         ./a.out
 
-Usage
+## Usage
 
     Upon running the program, you will be presented with a menu of options:
 
@@ -74,23 +74,17 @@ Usage
 
         Follow the on-screen instructions to perform the desired operation.
 
-Screenshots
+## Screenshots
 
-    ![Main Menu](./assests/screenshots/main_menu.png)
+![Main Menu](./assests/screenshots/main_menu.png)
+![Create Contact](./assests/screenshots/create_contact.png)
+![Search Contact](./assests/screenshots/search_contact.png)
+![Display Contact](./assests/screenshots/display_contact.png)
+![Edit Contact](./assests/screenshots/edit_contact_1.png)
+![Edit Contact](./assests/screenshots/edit_contact_2.png)
+![Delete Contact](./assests/screenshots/delete_contact_1.png)
 
-    ![Create Contact](./assests/screenshots/create_contact.png)
-
-    ![Search Contact](./assests/screenshots/search_contact.png)
-
-    ![Display Contact](./assests/screenshots/display_contact.png)
-
-    ![Edit Contact](./assests/screenshots/edit_contact_1.png)
-
-    ![Edit Contact](./assests/screenshots/edit_contact_2.png)
-
-    ![Delete Contact](./assests/screenshots/delete_contact_1.png)
-
-File Structure
+## File Structure
 
     main.c: Main program file containing all functionality.
 
@@ -98,7 +92,7 @@ File Structure
 
     assests/screenshots/: Folder containing screenshots of the application.
 
-How It Works
+## How It Works
 
     Adding Contacts:
 
@@ -122,7 +116,7 @@ How It Works
 
         Removes the selected contact's details from the file.
 
-Learning Outcomes
+## Learning Outcomes
 
     Mastery of file handling in C.
 
@@ -132,7 +126,7 @@ Learning Outcomes
 
     Debugging and testing in a Linux environment.
 
-Future Enhancements
+## Future Enhancements
 
     Add support for sorting contacts alphabetically or by phone number.
 
@@ -140,8 +134,8 @@ Future Enhancements
 
     Create a graphical user interface (GUI) for improved usability.
 
-License
+## License
 
     This project is not licensed.
 
-Feel free to suggest any additional features or improvements!
+## Feel free to suggest any additional features or improvements!
