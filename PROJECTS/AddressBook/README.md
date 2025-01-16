@@ -82,7 +82,7 @@
 ![Display Contact](./assests/screenshots/display_contact.png)
 ![Edit Contact](./assests/screenshots/edit_contact_1.png)
 ![Edit Contact](./assests/screenshots/edit_contact_2.png)
-![Delete Contact](./assests/screenshots/delete_contact_1.png)
+![Delete Contact](./assests/screenshots/delete_contact.png)
 
 ## File Structure
 
