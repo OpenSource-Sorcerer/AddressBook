@@ -36,7 +36,7 @@
 
     Navigate to the project directory:
 
-        cd AddressBook_Project
+        cd AddressBook_Project/PROJECTS/AddressBook/src
 
     Compile the program on windows machine:
 
@@ -96,9 +96,13 @@ Delete Contact:
 
 ## File Structure
 
-    main.c: Main program file containing all functionality.
+    main.c: Main program file containing all function calls
 
-    contacts.txt: Data file where contact details are stored.
+    contact.c: This file contains all function definitions.
+
+    contact.h: This file contains all function, structure declarations
+
+    AddressBook.csv: Data file where contact details are stored.
 
     assests/screenshots/: Folder containing screenshots of the application.
 
